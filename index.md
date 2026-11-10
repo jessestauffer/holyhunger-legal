@@ -4,6 +4,7 @@ title: Holy Hunger
 
 # Holy Hunger
 
-Legal pages for the Holy Hunger iOS app.
+Holy Hunger is run by Rooftop Labs LLC. Contact: rooftoplabsllc@gmail.com
 
 - [Privacy Policy](privacy/)
+- [Support](support/)
