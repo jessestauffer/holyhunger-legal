@@ -5,10 +5,11 @@ permalink: /privacy/
 
 # Holy Hunger Privacy Policy
 
-**Effective date:** November 6, 2026
+
+**Effective date:** November 10, 2026
 
 Holy Hunger helps you plan and keep a Christian fast with daily scripture and
-prayer. We built it to know as little about you as possible. This policy
+prayer. Holy Hunger is run by Rooftop Labs LLC ("we", "us"). We built it to know as little about you as possible. This policy
 explains what the app stores, where it is stored, and who else sees it.
 
 ## The short version
@@ -88,4 +89,4 @@ affects how we handle your information, we'll tell you in the app before it
 applies.
 
 ## Contact
-Holy Hunger, rooftoplabsllc@gmail.com
+Rooftop Labs LLC, the company that runs Holy Hunger: rooftoplabsllc@gmail.com
